@@ -1,3 +1,3 @@
 ## Add Instagram Clone
 
-# clone instagram using html, css and bootstrap
+clone instagram using html, css and bootstrap
